@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f3f0ec;
+}
+
+.bali {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 85px;
+    line-height: 105px;
+    color: #EF790C;
+}
+
+.hani {
+    color: aliceblue;
+    text-shadow: 4px 1px #EF790C;
+    stroke: #EF790C;
+
+
+}
+
+.navbar-nav {
+    margin-left: 48%;
+}
+
+select {
+    text-decoration: none;
+    border: none;
+}
+
+.text-edit {
+    top: 80px;
+}
+
+.main {
+    top: 280px;
+}
+
+.text-dec {
+    font-style: italic;
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 2px;
+
+    color: #606060;
+
+
+
+}
+
+.paragraph {
+    top: 75px;
+}
+
+.btn-one {
+    background-color: #EF790C;
+    border: none;
+}
+
+.btn-two {
+    background-color: white;
+    border: 1px solid #EF790C;
+}
+
+.colorwhite {
+    color: #EF790C;
+    border: 1px solid #EF790C;
+    background-color: #f3f0ec
+}
+
+.bg-color-set {
+    background-color: #EF790C0D;
+    width: 800px;
+
+
+
+}
+
+.edit-text {
+    background-color: rgba(210, 111, 9, 0.08);
+}
+
+.btn2 {
+    background-color: #EF790C;
+    border: none;
+}
+
+.bg-colorr {
+    background-color: #EF790C;
+    top: 9px;
+    border: none;
+    width: 139px;
+    height: 6vh;
+    top: 10px;
+}
+
+.bg-colorr2 {
+    font-family: Montserrat;
+    background-color: #EF790C;
+    border: none;
+
+}
+
+.heading {
+    color: #EF790C;
+    letter-spacing: 3px;
+    font-family: Montserrat;
+
+}
+
+.word-editt {
+    font-size: 15px;
+}
+
+
+
+.back-color {
+    background-color: #EF790C0D;
+    width: 350px;
+
+}
+
+.image-positionn{
+    width: 400px;
+}
+
+.text-positionn {
+    left: 90px;
+    top: 10px;
+}
+
+.bg-setting {
+    background-color: #EF790C0D;
+    border: none;
+}
+
+.font-f {
+    font-family: Montserrat;
+
+}
+
+.vl {
+    border-left: 2px solid rgb(167, 165, 165);
+    height: 60px;
+}
+
+.cherche-btn {
+    background: #EF790C;
+    border: none;
+    font-family: Montserrat;
+}
+
+.email-set {
+    width: 400px;
+}
+
+.margin-em {
+    margin-right: 490px;
+}
+
+.backg-color {
+    background-color: #EF790C0D;
+
+}
+
+.last-text {
+    margin-left: 100px;
+    font-family: Montserrat;
+}
+
+.Image-pos {
+    margin-left: 96px;
+}
+
+.footer-bg {
+    background-color: #EF790C0D;
+
+}
+
+.font-edi {
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+}
+
+.okayy {
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+}
